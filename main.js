@@ -92,5 +92,6 @@ function playGame() {
     }
 }
 
+console.log("hello");
 
 playGame();
